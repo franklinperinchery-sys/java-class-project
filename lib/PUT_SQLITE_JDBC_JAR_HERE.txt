@@ -1,0 +1,1 @@
+Download sqlite-jdbc-3.x.x.jar from https://github.com/xerial/sqlite-jdbc/releases and place it in this folder.
